@@ -1,0 +1,61 @@
+body {
+    background-color: #d9d4cc;
+    margin: 0;
+    font-family: Open Sans;
+    margin: 0;
+    padding: 0;
+}
+
+input::placeholder,
+textarea::placeholder,
+select::placeholder{
+    font-family: Open Sans;
+    color: #aaa
+
+}
+
+form {
+    max-width: 40%;
+    margin: 0 auto;
+
+
+
+}
+
+label {
+    display: contents;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+label span {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+input,
+textarea,
+select {
+    display: block;
+    padding: 8px;
+    border: 1px solid #BDBDBD;
+    background: #E6E6E6;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 304px;
+    height: 24px;
+
+}
+

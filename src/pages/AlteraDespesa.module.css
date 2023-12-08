@@ -1,0 +1,53 @@
+.formulario {
+  width: 60%;
+  margin-left: 30%;
+  padding: 30px 15px;
+  height: auto;
+
+}
+
+.campo {
+  width: 50%;
+  float: left;
+  margin-top: 0px;
+
+}
+
+.campo input {
+  margin: 10px 2%;
+  padding: 8px 2%;
+  width: 90%;
+  font-family: Open Sans;
+  background-color: white;
+  text-transform: uppercase;
+
+}
+
+.campo1 {
+  width: 50%;
+  margin-top: 0px;
+
+}
+
+.campo1 input {
+  margin: 10px 2%;
+  padding: 8px 2%;
+  width: 90%;
+  font-family: Open Sans;
+  background-color: white;
+  text-transform: uppercase;
+}
+
+
+.campo select {
+  margin: 10px 1%;
+  padding: 8px 1%;
+  width: 94%;
+  height: 40px;
+  background-color: white;
+}
+
+.botao {
+   margin: 10px 10%;
+}
+

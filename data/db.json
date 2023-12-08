@@ -1,0 +1,60 @@
+{
+  "despesas": [
+    {
+      "id": 12,
+      "despesa": "VINHO",
+      "categoria": "PESSOAL VAR",
+      "valor": "72",
+      "dataDespesa": "2023-12-06",
+      "comentario": "branco"
+    },
+    {
+      "id": 18,
+      "despesa": "hospedagem",
+      "categoria": "VIAGEM",
+      "valor": "250",
+      "dataDespesa": "2023-12-02",
+      "comentario": "Férias"
+    },
+    {
+      "despesa": "FEIRA",
+      "categoria": "CASA VAR",
+      "valor": "120",
+      "dataDespesa": "2023-12-04",
+      "comentario": "FRUTAS",
+      "id": 19
+    },
+    {
+      "id": 20,
+      "despesa": "FEIRA",
+      "categoria": "CASA VAR",
+      "valor": "20",
+      "dataDespesa": "2023-12-01",
+      "comentario": "LEGUMES"
+    },
+    {
+      "id": 23,
+      "despesa": "VINHO",
+      "categoria": "CASA VARIAVEL",
+      "valor": "120",
+      "dataDespesa": "2023-11-28",
+      "comentario": "tinto"
+    },
+    {
+      "id": 24,
+      "despesa": "LUZ",
+      "categoria": "CASA FIXO",
+      "valor": "72",
+      "dataDespesa": "2023-12-10",
+      "comentario": "CPFL"
+    },
+    {
+      "id": 25,
+      "despesa": "oleo",
+      "categoria": "TRANSPORTE",
+      "valor": "50",
+      "dataDespesa": "2023-12-04",
+      "comentario": "manutenção"
+    }
+  ]
+}

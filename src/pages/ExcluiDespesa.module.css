@@ -1,0 +1,99 @@
+.myTable {
+    padding: 8px;
+    border-collapse: collapse;
+    position: relative;
+    transition: 0.2s;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+
+
+}
+
+.myTable th {
+    font-family: Open Sans;
+    font-size: 21px;
+    text-transform: uppercase;
+    border: 1px solid black;
+    border-collapse: collapse;
+    position: relative;
+    padding: 12px 8px 12px 10px;
+    font-size: 21px;
+    transition: 0.2s;
+    text-align: center;
+    display: flex;
+    background: #BDBDBD;
+    color: #B28500;
+
+}
+
+.myTable img {
+    display: flex;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    lex-shrink: 0;
+
+}
+
+.myDetalhe {
+    padding: 8px;
+    border-collapse: collapse;
+    position: relative;
+    transition: 0.2s;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+
+}
+
+.myDetalhe td {
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-transform: uppercase;
+    position: relative;
+    transition: 0.2s;
+
+
+}
+
+.myDetalhe button {
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.mydetalhe button:hover {
+    background-color: #B28500;
+    color: white;
+}
+
+.myDetalhe th {
+    font-family: Open Sans;
+    font-size: 21px;
+    text-transform: uppercase;
+    border: 1px solid black;
+    border-collapse: collapse;
+    position: relative;
+    padding: 12px 8px 12px 10px;
+    transition: 0.2s;
+    background: #BDBDBD;
+    color: #B28500;
+
+
+}
+
+.myDetalhe img {
+    display: flex;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    lex-shrink: 0;
+
+}

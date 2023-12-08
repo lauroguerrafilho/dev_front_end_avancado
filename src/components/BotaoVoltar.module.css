@@ -1,0 +1,32 @@
+.Voltar {
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 140px;
+    height: 40px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 2px solid #d9a50b;
+    background: #b29400;
+    padding: 11px 5px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px; /* 280% */
+    text-transform: uppercase;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Voltar:hover {
+    background-color: #B28500;
+    color: white;
+    opacity: 0.5;
+}

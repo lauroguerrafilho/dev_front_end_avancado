@@ -1,0 +1,51 @@
+.my_title {
+    margin: 0;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    width: 100%;
+    height: 87px;
+    background: #D9B60B;
+    display: inline-block;
+    padding: 2px 0px;
+    position: sticky;
+    top: 0px;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    text-transform: uppercase;
+    top: 1px;
+
+}
+
+.my_title h1
+{
+    margin: 12px;
+    background: #D9B60B;
+    font-size: 28px;
+
+}
+
+.my_title h2
+{
+    margin: 0;
+    background: #D9B60B;
+    font-size: 16px;
+
+}
+
+
+.my_banner {
+    overflow: hidden;
+    height: 302px;
+    background: lightgray 50% / cover no-repeat;
+
+}
+
+.my_banner img {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+
+
