@@ -136,8 +136,6 @@ Após criar o projeto, mudar para a pasta controle_despesa criada
 cd controle_despesas
 ```
 
-### Baixar a aplicação do GitHub
-
 
 ### Instalar as dependências/bibliotecas - NPM
 
