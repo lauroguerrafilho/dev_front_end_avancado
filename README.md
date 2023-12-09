@@ -5,6 +5,9 @@ Este projeto faz parte da disciplina **Desenvolvimento Front-end avançado**.
 O objetivo é desenvolver o Front-end baseado na  interface prototipada no **FIGMA**, 
 utilizando o **REACT** e explorando a componentização.
 
+O prototipo do figma pode ser acessado no endereço abaixo:
+https://www.figma.com/file/S6U4iPpxRTRKX5SwiXu2di/despesas?type=design&node-id=1%3A2&mode=design&t=F8va8svVPIH0iK8j-1
+
 A aplicação é um sistema de controle de despesas pessoais.
 
 ## Recursos utilizados
